@@ -45,6 +45,8 @@ https://ostora.optikl.ink/main.php?id=116900&cat=4524
 http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/52042
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="البث الخاص (الكلاسيكو)",سيرفر ثالث
 https://cp11.adabmedia.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="البث الخاص (الكلاسيكو)",سيرفر رابع
+https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="البث الخاص (الكلاسيكو)",ألوان الرياضية 
 http://coco3-cdn.cfd:8085/alwan-1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="البث الخاص (الكلاسيكو)",اجنبي احتياط
